@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JacobPotter
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning Node/Express, React, and K8s
+- 🌱 I’m currently learning Go 
 - 📫 How to reach me: pttr.jcb@gmail.com
 
 <!---
